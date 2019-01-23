@@ -1,5 +1,5 @@
 #!/bin/bash
-#author:shimx
+#author:shimingxing
 
 if [ $# -ne 7 ];then
     echo "Usage: `basename $0` <srcdb_host> <srcdb_user> <srcdb_password> <db_name> <dstdb_host> <dstdb_user> <dstdb_password>"
