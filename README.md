@@ -1,3 +1,5 @@
+![](https://gss2.bdstatic.com/9fo3dSag_xI4khGkpoWK1HF6hhy/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=88104ec20df431ada8df4b6b2a5fc7ca/ac6eddc451da81cb037c289d5366d016082431c3.jpg)
+<br>
 【简介】
 ===
 用于MySQL数据库的迁移，能导出表结构、表数据、视图、存储过程和函数，并自动到目标库中创建数据库并导入。
